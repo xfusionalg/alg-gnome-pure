@@ -1,2 +1,7 @@
 # alg-gnome-pure
-ALG edition with stock GNOME 40.
+Arch Linux GUI
+
+ChangeLogs:
+Added archinstal
+Removed an old deprecated package
+Changed repositories
