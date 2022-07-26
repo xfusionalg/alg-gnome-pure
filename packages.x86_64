@@ -3,6 +3,7 @@
 alsa-utils
 amd-ucode
 arch-install-scripts
+archinstall
 b43-fwcutter
 base
 bind-tools
@@ -131,7 +132,6 @@ nautilus
 xdg-user-dirs-gtk
 neofetch
 noto-fonts
-archlinux-appstream-data-pamac
 
 #Installer
 grub
